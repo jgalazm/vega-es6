@@ -1,0 +1,3 @@
+[submodule "vega-lite"]
+	path = vega-lite
+	url = https://github.com/vega/vega-lite
